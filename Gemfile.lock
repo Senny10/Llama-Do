@@ -57,7 +57,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara (~> 3.36)
-  rack-test
+  rack-test (~> 2.0)
   rspec (~> 3.12)
   sinatra (~> 3.0)
 
