@@ -13,3 +13,7 @@ gem "sinatra", "~> 3.0"
 gem "capybara", "~> 3.36"
 
 gem "rack-test", "~> 2.0"
+gem "json"
+gem "dotenv"
+
+gem "sinatra-reloader", "~> 1.0"
